@@ -1,4 +1,6 @@
 #  Low Stock Alert API – Spring Boot Project
+> **Note:** Only the important code and logic needed to solve the given problem has been written.  
+> A complete project setup (controllers, repositories, configs, etc.) was **not** created.
 
 ##  Project Overview
 
